@@ -1,0 +1,4 @@
+!Install-Module ImportExcel -scope CurrentUser
+!Paths
+!POWESHELL V3 AND UP
+!Shortcut path plus atributes -> powershell.exe -WindowStyle Hidden -ExecutionPolicy Bypass -File  
