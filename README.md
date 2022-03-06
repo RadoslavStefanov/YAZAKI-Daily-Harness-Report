@@ -3,6 +3,8 @@ This is a project built by request from the Logistics department of Yazaki Bulga
 
 The need for this software came from the completely scrambled format that the harnesses(contained inside the excel files) come in. DHR improved the time spent daily for a repetative task from 3-4 hours between 2-3 colleagues to just one person for 2-15 min.
 
+One of the best features this app has is it's centralized updating. After entering the admin password, the admin gets a blue "Push" button this uploads the newly updated version to a server. After that any other client thats has been started checks the server for a new version, and if there is one it prompts the user to update.
+
 Features: 
 -DHR supports both two Customers of this YAZAKI plant. 
 -Centralized updating and version control 
