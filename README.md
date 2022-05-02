@@ -6,7 +6,7 @@ The need for this software came from the completely scrambled format that the ha
 One of the best features this app has is it's centralized updating. After entering the admin password, the admin gets a blue "Push" button this uploads the newly updated version to a server. After that any other client thats has been started checks the server for a new version, and if there is one it prompts the user to update.
 
 Features: 
--DHR supports both two Customers of this YAZAKI plant. 
+-DHR supports both Customers of this YAZAKI plant. 
 -Centralized updating and version control 
 -Actions Display 
 -Admin panel 
